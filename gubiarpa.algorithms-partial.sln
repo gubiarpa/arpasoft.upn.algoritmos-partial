@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question1", "Question1", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gubiarpa.algorithms-partial.question-1", "gubiarpa.algorithms-partial.question-1\gubiarpa.algorithms-partial.question-1.csproj", "{2BD08BD5-BC16-433E-9F3B-DFC6CF0E3DB5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question3", "Question3", "{EDAA8F23-C4B2-4607-92AD-44413305BB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gubiarpa.algorithms-partial.question-3", "gubiarpa.algorithms-partial.question-3\gubiarpa.algorithms-partial.question-3.csproj", "{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{2BD08BD5-BC16-433E-9F3B-DFC6CF0E3DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD08BD5-BC16-433E-9F3B-DFC6CF0E3DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD08BD5-BC16-433E-9F3B-DFC6CF0E3DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2BD08BD5-BC16-433E-9F3B-DFC6CF0E3DB5} = {14D52A89-0DB6-4C83-81F0-72A2AF832E66}
+		{9B9BE160-DA8B-4C4C-B5EC-EA8837FB6E7F} = {EDAA8F23-C4B2-4607-92AD-44413305BB72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2A7E25E0-42E5-4974-B547-DAA9B9602069}
